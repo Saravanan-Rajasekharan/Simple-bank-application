@@ -40,6 +40,3 @@ public class Main {
     }
 }
 
-// Interface 100% abstraction, cannot implementation,
-// interface is just like an index of a book
-// Promotes code re-usability
